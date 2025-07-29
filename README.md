@@ -63,7 +63,7 @@ Bu araç, güvenlik kayıtları, saha çalışmaları, spor analizleri veya herh
 
 4.  **Uygulamayı çalıştırın:**
     ```bash
-    python video_annotator_app.py 
+    python GoruntudenTutanaga.py 
     ```
     *Not: Python dosyanızın adı farklıysa komutu ona göre güncelleyin.*
 
